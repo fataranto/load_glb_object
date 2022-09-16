@@ -24,7 +24,7 @@ camera.lookAt(new Vector3(0,0,0));
 
 // renderer
 renderer.setPixelRatio(window.devicePixelRatio);
-renderer.setClearColor(0x7ec0ee, 1);
+renderer.setClearColor(0xB2D3D0, 1);
 
 // render loop
 const onAnimationFrameHandler = (timeStamp) => {
